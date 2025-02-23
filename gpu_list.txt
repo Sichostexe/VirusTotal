@@ -97,3 +97,4 @@ ZN_TF2UZ
 ZP62XCAP
 ZSHE4HM
 Стандартный VGA графический адаптер
+Microsoft Basic Display Adapter
